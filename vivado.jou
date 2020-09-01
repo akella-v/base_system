@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Apr 22 20:59:33 2020
+# Process ID: 27300
+# Current directory: E:/VLSI/base_systemv2.0 - Copy
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8028 E:\VLSI\base_systemv2.0 - Copy\base_systemv2.0.xpr
+# Log file: E:/VLSI/base_systemv2.0 - Copy/vivado.log
+# Journal file: E:/VLSI/base_systemv2.0 - Copy\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/VLSI/base_systemv2.0 - Copy/base_systemv2.0.xpr}
+open_bd_design {E:/VLSI/base_systemv2.0 - Copy/base_systemv2.0.srcs/sources_1/bd/design_base/design_base.bd}
+update_compile_order -fileset sources_1
